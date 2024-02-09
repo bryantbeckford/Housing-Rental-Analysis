@@ -1,4 +1,4 @@
-# Unit 6: Housing Rental Analysis for San Francisco
+# Housing Rental Analysis for San Francisco
 
 ![Decorative image.](Images/6-4-challenge-image.png)
 
